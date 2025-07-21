@@ -1,0 +1,11 @@
+# Vercel Python部署依赖
+# 负成本持仓策略管理系统
+
+Flask==2.3.3
+Werkzeug==2.3.7
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+itsdangerous==2.2.0
+click==8.2.1
+blinker==1.9.0
+
